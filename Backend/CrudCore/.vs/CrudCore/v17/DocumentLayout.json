@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos Visual\\CrudCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D758AFF-4371-4E7D-B7A1-6E5C347B12A1}|CrudCore\\CrudCore.csproj|c:\\proyectos visual\\crudcore\\crudcore\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D758AFF-4371-4E7D-B7A1-6E5C347B12A1}|CrudCore\\CrudCore.csproj|solutionrelative:crudcore\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D758AFF-4371-4E7D-B7A1-6E5C347B12A1}|CrudCore\\CrudCore.csproj|c:\\proyectos visual\\crudcore\\crudcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D758AFF-4371-4E7D-B7A1-6E5C347B12A1}|CrudCore\\CrudCore.csproj|solutionrelative:crudcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D758AFF-4371-4E7D-B7A1-6E5C347B12A1}|CrudCore\\CrudCore.csproj|c:\\proyectos visual\\crudcore\\crudcore\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D758AFF-4371-4E7D-B7A1-6E5C347B12A1}|CrudCore\\CrudCore.csproj|solutionrelative:crudcore\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D758AFF-4371-4E7D-B7A1-6E5C347B12A1}|CrudCore\\CrudCore.csproj|c:\\proyectos visual\\crudcore\\crudcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D758AFF-4371-4E7D-B7A1-6E5C347B12A1}|CrudCore\\CrudCore.csproj|solutionrelative:crudcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D758AFF-4371-4E7D-B7A1-6E5C347B12A1}|CrudCore\\CrudCore.csproj|c:\\proyectos visual\\crudcore\\crudcore\\models\\dbcrudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D758AFF-4371-4E7D-B7A1-6E5C347B12A1}|CrudCore\\CrudCore.csproj|solutionrelative:crudcore\\models\\dbcrudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Proyectos Visual\\CrudCore\\CrudCore\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CrudCore\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Proyectos Visual\\CrudCore\\CrudCore\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CrudCore\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T00:14:14.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Proyectos Visual\\CrudCore\\CrudCore\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "CrudCore\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Proyectos Visual\\CrudCore\\CrudCore\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "CrudCore\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T23:48:40.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Proyectos Visual\\CrudCore\\CrudCore\\Program.cs",
+              "RelativeDocumentMoniker": "CrudCore\\Program.cs",
+              "ToolTip": "C:\\Proyectos Visual\\CrudCore\\CrudCore\\Program.cs",
+              "RelativeToolTip": "CrudCore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T00:05:58.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Proyectos Visual\\CrudCore\\CrudCore\\appsettings.json",
+              "RelativeDocumentMoniker": "CrudCore\\appsettings.json",
+              "ToolTip": "C:\\Proyectos Visual\\CrudCore\\CrudCore\\appsettings.json",
+              "RelativeToolTip": "CrudCore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T00:04:46.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbcrudContext.cs",
+              "DocumentMoniker": "C:\\Proyectos Visual\\CrudCore\\CrudCore\\Models\\DbcrudContext.cs",
+              "RelativeDocumentMoniker": "CrudCore\\Models\\DbcrudContext.cs",
+              "ToolTip": "C:\\Proyectos Visual\\CrudCore\\CrudCore\\Models\\DbcrudContext.cs",
+              "RelativeToolTip": "CrudCore\\Models\\DbcrudContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T00:04:26.361Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

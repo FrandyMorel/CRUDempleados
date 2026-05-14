@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+.icons:hover{
+    stroke: #00BFFF;
+  stroke-width: 3;
+  cursor: pointer;
+}
